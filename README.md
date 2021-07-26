@@ -1,2 +1,2 @@
-# project-29
-this a very good project!
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
